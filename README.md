@@ -1,6 +1,6 @@
-# Mini C Compiler — CS304 Course Project
+# Mini C Compiler 
 
-This project is a **Mini C Compiler** developed for the **CS304 Compiler Construction** course. The compiler covers the core four phases of compilation:
+This project is a **Mini C Compiler** developed for the **CS304 Compiler Design** course. The compiler covers the core four phases of compilation:
 
 ## Phases Included
 
